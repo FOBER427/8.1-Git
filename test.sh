@@ -1,4 +1,4 @@
 #!/bin/bash
 echo "Hello from test.sh"
-echo "Another line in test.sh"
+echo "Изменение из ветки conflict"
 Third line

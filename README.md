@@ -13,7 +13,7 @@
 
 ## Задание 2 - Работа с .gitignore  
 ### Ссылка на коммит:
-[Ссылка на коммит Задания 2](github.com/FOBER427/8.1-Git/commit/https://github.com/FOBER427/8.1-Git/commit/ee573f3dccdc23a8cc31706553bccbfa447536aa)  
+[Ссылка на коммит Задания 2](https://github.com/FOBER427/8.1-Git/commit/ee573f3dccdc23a8cc31706553bccbfa447536aa)  
 
 ## Задание 3 - Работа с ветками  
 ### Ссылка на граф коммитов:  
